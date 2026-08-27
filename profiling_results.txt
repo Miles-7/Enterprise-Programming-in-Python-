@@ -1,0 +1,47 @@
+Deliverable 5.2 Application Profiling
+========================================
+
+=== cProfile: function-level results ===
+         251 function calls in 0.000 seconds
+
+   Ordered by: cumulative time
+   List reduced from 16 to 10 due to restriction <10>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+       10    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable3_extended.py:87(wrapper)
+       10    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable2.py:51(process_registration)
+       10    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable1.py:104(__init__)
+       20    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable3_extended.py:66(log)
+       10    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable1.py:83(add_registration)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+       50    0.000    0.000    0.000    0.000 {method 'append' of 'list' objects}
+       10    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable1.py:56(add_registration)
+       10    0.000    0.000    0.000    0.000 C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable2.py:78(__is_duplicate)
+       40    0.000    0.000    0.000    0.000 {method '__exit__' of '_thread.lock' objects}
+
+
+
+
+=== Sequential vs concurrent wall-clock time ===
+Sequential : 0.11 ms
+Concurrent : 7.06 ms  (5 worker threads)
+
+=== line_profiler: line-level results (Bugzot.log) ===
+Timer unit: 1e-07 s
+
+Total time: 3.95e-05 s
+File: C:\Users\janni\OneDrive\Documents\Eduvos\Formative Assignments\Year 3\block 3\ITEPA\Deliverable3_extended.py
+Function: Bugzot.log at line 66
+
+Line #      Hits         Time  Per Hit   % Time  Line Contents
+==============================================================
+    66                                               def log(self,level,category,message):
+    67        16        122.0      7.6     30.9          full_message = f"{category} | {message}"
+    68        16         55.0      3.4     13.9          level = level.upper() # just make it all caps 
+    69                                           
+    70                                                   # I refined my function to append to the buffer rather than directly writing to the log
+    71        32        125.0      3.9     31.6          with self.__lock:
+    72        16         49.0      3.1     12.4              self.__buffer.append(full_message)
+    73        16         37.0      2.3      9.4              if level == "ERROR":
+    74         2          7.0      3.5      1.8                  self.error_count += 1
+

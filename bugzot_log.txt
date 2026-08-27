@@ -1,0 +1,618 @@
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 1 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.33ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 2 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.05ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 3 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 4 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 5 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 6 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 7 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 8 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 9 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success | Learner 10 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-22 22:11:21 | INFO | Registration Success |  Learner 1 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.26ms
+2026-08-22 22:11:21 | INFO | Registration Success |  Learner 2 registered successfully.
+2026-08-22 22:11:21 | INFO | Registration Success |  Learner 3 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.30ms
+2026-08-22 22:11:21 | INFO | Registration Success |  Learner 4 registered successfully.
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.35ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 5 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.59ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 6 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.52ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 8 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.36ms
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.44ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 9 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.38ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 10 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.36ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 7 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.79ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 11 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.46ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 12 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.52ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 13 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.57ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 14 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.56ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 15 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.60ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 16 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.72ms
+2026-08-22 22:11:21 | ERROR | Registration Failure |  Learner 17 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:11:21 | INFO | Performance | process_registration completed in 0.86ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 1 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.82ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 2 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 3 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.15ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 4 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.15ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 5 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.15ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 6 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.14ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 7 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.15ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 8 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.16ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 9 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.14ms
+2026-08-22 22:39:09 | INFO | Registration Success | Learner 10 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.14ms
+2026-08-22 22:39:09 | INFO | Registration Success |  Learner 1 registered successfully.
+2026-08-22 22:39:09 | INFO | Registration Success |  Learner 2 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.65ms
+2026-08-22 22:39:09 | INFO | Registration Success |  Learner 3 registered successfully.
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.49ms
+2026-08-22 22:39:09 | INFO | Registration Success |  Learner 4 registered successfully.
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 5 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 1.67ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 6 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 1.34ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 7 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 1.57ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 8 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 1.74ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 9 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 1.53ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 10 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.84ms
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 2.03ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 11 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.51ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 12 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.49ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 13 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.43ms
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 1.73ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 15 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.43ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 16 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.41ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 14 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.87ms
+2026-08-22 22:39:09 | ERROR | Registration Failure |  Learner 17 tried to register for: Concurrent Systems: error: Course is full
+2026-08-22 22:39:09 | INFO | Performance | process_registration completed in 0.51ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 1 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 1.81ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 2 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.28ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 3 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 4 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 5 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.16ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 6 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 7 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.16ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 8 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.16ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 9 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-24 11:07:06 | INFO | Registration Success | Learner 10 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.17ms
+2026-08-24 11:07:06 | INFO | Registration Success |  Learner 1 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.50ms
+2026-08-24 11:07:06 | INFO | Registration Success |  Learner 2 registered successfully.
+2026-08-24 11:07:06 | INFO | Registration Success |  Learner 3 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 1.10ms
+2026-08-24 11:07:06 | INFO | Registration Success |  Learner 4 registered successfully.
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.90ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 5 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 1.22ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 6 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 1.06ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 7 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 1.89ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 9 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.48ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 8 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.89ms
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.67ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 11 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.54ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 12 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.49ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 16 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.07ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 13 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 10 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 1.28ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 14 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.77ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 17 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.49ms
+2026-08-24 11:07:06 | ERROR | Registration Failure |  Learner 15 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.93ms
+2026-08-24 11:07:06 | INFO | Performance | process_registration completed in 0.61ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 1 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 1.20ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 2 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.17ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 3 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.15ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 4 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.28ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 5 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.39ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 6 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.06ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 7 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 8 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 9 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-24 15:18:37 | INFO | Registration Success | Learner 10 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.03ms
+2026-08-24 15:18:37 | INFO | Registration Success |  Learner 1 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-24 15:18:37 | INFO | Registration Success |  Learner 2 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.18ms
+2026-08-24 15:18:37 | INFO | Registration Success |  Learner 3 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.09ms
+2026-08-24 15:18:37 | INFO | Registration Success |  Learner 5 registered successfully.
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.12ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 6 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.81ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 4 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 1.17ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 7 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.75ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 11 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.51ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 8 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 1.86ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 12 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 10 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 1.26ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 13 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.76ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 14 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 9 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 1.62ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 17 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.10ms
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.80ms
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 0.83ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 15 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 1.70ms
+2026-08-24 15:18:37 | ERROR | Registration Failure |  Learner 16 tried to register for: Concurrent Systems: error: Course is full
+2026-08-24 15:18:37 | INFO | Performance | process_registration completed in 3.04ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success |  Learner 1 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success |  Learner 2 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success |  Learner 3 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success |  Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 6 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 5 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 7 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 10 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure |  Learner 8 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 9 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 11 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 15 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure |  Learner 12 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 13 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 14 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure |  Learner 16 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure |  Learner 17 tried to register for: Concurrent Systems: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.07ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 0 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 10 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.02ms
+Registration Failure | Learner 11 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 12 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 13 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 14 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 15 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 16 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 17 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 18 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 19 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 0 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 14 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 11 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 12 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 13 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 15 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 16 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 17 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 18 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 19 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.06ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 6 tried to register for: Line Profile Course: error: Course is full
+Performance | process_registration completed in 0.03ms
+Registration Failure | Learner 7 tried to register for: Line Profile Course: error: Course is full
+Performance | process_registration completed in 0.02ms
+Duplicate Registration | Learner Learner 1 is already registered for Line Profile Course.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.03ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 0 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 10 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 11 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 12 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 13 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 14 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 15 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 16 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 17 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 18 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 19 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 0 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 14 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 11 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 12 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 13 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 15 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 16 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 17 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 18 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 19 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.08ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Failure | Learner 6 tried to register for: Line Profile Course: error: Course is full
+Performance | process_registration completed in 0.03ms
+Registration Failure | Learner 7 tried to register for: Line Profile Course: error: Course is full
+Performance | process_registration completed in 0.03ms
+Duplicate Registration | Learner Learner 1 is already registered for Line Profile Course.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.03ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 0 registered successfully.
+Performance | process_registration completed in 0.02ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 10 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 11 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 12 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 13 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 14 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 15 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 16 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 17 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 18 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Failure | Learner 19 tried to register for: Cloud Computing: error: Course is full
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 0 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 6 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 9 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 8 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 7 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 10 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 14 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 12 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 13 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 11 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 15 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 16 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 17 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 18 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 19 registered successfully.
+Performance | process_registration completed in 0.00ms
+Registration Success | Learner 1 registered successfully.
+Performance | process_registration completed in 0.04ms
+Registration Success | Learner 2 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 3 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 4 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Success | Learner 5 registered successfully.
+Performance | process_registration completed in 0.01ms
+Registration Failure | Learner 6 tried to register for: Line Profile Course: error: Course is full
+Performance | process_registration completed in 0.02ms
+Registration Failure | Learner 7 tried to register for: Line Profile Course: error: Course is full
+Performance | process_registration completed in 0.02ms
+Duplicate Registration | Learner Learner 1 is already registered for Line Profile Course.
+Performance | process_registration completed in 0.01ms
